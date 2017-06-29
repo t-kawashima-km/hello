@@ -2,7 +2,7 @@
  <head>
   <title>HELLO PHP</title>
  </head>
- <body color="green">
-  <?php echo '<P>Hello World!</p>'; ?>
+ <body>
+  <?php echo '<P><font color="green">Hello World!</font></p>'; ?>
  </body>
 </html>
