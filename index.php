@@ -3,6 +3,6 @@
   <title>HELLO PHP</title>
  </head>
  <body>
-  <?php echo '<P><font color="green">Hello World!</font></p>'; ?>
+  <?php echo '<P><font color="blue">Hello World!</font></p>'; ?>
  </body>
 </html>
