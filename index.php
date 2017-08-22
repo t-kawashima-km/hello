@@ -4,9 +4,9 @@
  </head>
  <body>
   <?php
-  　echo '<P><h1>Hello World!</h1></P>';
-   $ip = gethostbyname(gethostname());
-   echo 'IP: '.$ip;
+  echo '<P><h1>Hello World!</h1></P>';
+  $ip = gethostbyname(gethostname());
+  echo 'IP: '.$ip;
  ?>
  </body>
 </html>
