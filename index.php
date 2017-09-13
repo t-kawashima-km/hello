@@ -8,5 +8,6 @@
   $ip = gethostbyname(gethostname());
   echo 'IP: '.$ip;
  ?>
+  hook test
  </body>
 </html>
