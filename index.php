@@ -8,6 +8,6 @@
   $ip = gethostbyname(gethostname());
   echo 'IP: '.$ip;
  ?>
-  hook test
+  <h1>hook test 2</ht>
  </body>
 </html>
