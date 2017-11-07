@@ -8,6 +8,6 @@
   $ip = gethostbyname(gethostname());
   echo 'IP: '.$ip;
  ?>
-  <h3>hook test</h>
+  <a href="dummy25m.iso">download</a>
  </body>
 </html>
